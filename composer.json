@@ -1,0 +1,17 @@
+{
+  "name": "mohamed-boutarbouch/php_good_code",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "mohamed-boutarbouch",
+      "email": "mohamedboutarbouch48@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*"
+  }
+}
